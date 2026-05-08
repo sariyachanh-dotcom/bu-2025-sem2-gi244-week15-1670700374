@@ -34,7 +34,7 @@ namespace StealthGame
         }
 
         void Update()
-        {
+        {/*
             if (enableBugCode)
             {
                 int n = 0;
@@ -42,7 +42,7 @@ namespace StealthGame
                 {
                     n++;
                 }
-            }
+            }*/
         }
 
         void FixedUpdate()
